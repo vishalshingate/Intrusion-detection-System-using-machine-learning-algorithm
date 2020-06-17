@@ -20,4 +20,4 @@ Dataset can be downloded from this link-http://kdd.ics.uci.edu/databases/kddcup9
 7. Click on the Accuracy button to check the accuracy of the proposed model with validation set.
 8. Click on the Class probability button to check particular class found how many times.
 9. Click on the compare_accuracy button to compare the accuracy of the proposed model with other models.
-10.Click Exit button to  shutdown the ids.
+10. Click Exit button to  shutdown the ids.
