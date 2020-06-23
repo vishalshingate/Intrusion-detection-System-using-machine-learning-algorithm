@@ -1,5 +1,5 @@
 ### Title -  
-# Intrusion-detection-System-using-machine-learning-algorithm
+# Intrusion-detection-System-using-machine-learning-algorithms
 
 ### Authors -
     1. Vishal Shingate
